@@ -1,3 +1,5 @@
+![](preview.png)
+
 # Impossible Hangman
 A silly hangman game where your opponent cheats to make your life hell.
 
