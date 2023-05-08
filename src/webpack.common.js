@@ -9,6 +9,11 @@ module.exports = {
                 use: 'ts-loader',
                 exclude: /node_modules/,
             },
+            {
+                test: /\.txt$/,
+                use: 'raw-loader',
+                exclude: /node_modules/,
+            },
         ],
     },
     resolve: {
